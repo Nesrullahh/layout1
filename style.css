@@ -25,7 +25,7 @@ nav ul li a{
     text-decoration: none;
 }
 h1{
-    background-color: #95afc0;
+    background-color: #85d8ed;
     
     margin: 0px;
     text-align: center;
@@ -42,7 +42,7 @@ a{
     text-decoration: none;
 }
 .main{
-    background-color: #95afc0;
+    background-color:#85d8ed  ;
 }
 footer{
     text-align: center;
@@ -61,4 +61,9 @@ h1.animals{
 
 nav ul li a:hover{
     background-color: #3114b5b4;
+}
+table, th, td{
+    border: 1px solid black ;
+    border-collapse: collapse;
+    
 }
